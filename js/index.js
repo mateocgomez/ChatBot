@@ -35,7 +35,7 @@ document.getElementById("MSG").value= no.innerHTML;
 $(window).load(function() {
   $messages.mCustomScrollbar();
   setTimeout(function() {
-    serverMessage("¡Hola! Soy un chatbot para dar soporte al cliente");
+    serverMessage("¡Hola! Soy Neuronita de la financiera Bayport, como te encuentras el día de hoy?");
   }, 100);
 
 });
